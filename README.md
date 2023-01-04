@@ -12,14 +12,18 @@ This python program will display a message ("Hello World!") to the terminal.
  This program acts as a test/starting code for the porfolio.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Below is a video demonstration of the program:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 {Describe the tools that you used to develop the software}
+- Visual Studio Code
+- Git
 
 {Describe the programming language that you used}
+- Python 3.10.4
 
 # Useful Websites
 
