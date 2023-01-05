@@ -12,7 +12,7 @@ Purpose:
 
 Below is a video demonstration of the program:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/f6008a7135024959a8592793887488dc)
 
 # Development Environment
 
